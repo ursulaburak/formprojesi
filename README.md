@@ -1,3 +1,1 @@
-# Öğrenci Tablosu Projesi
-# formprojesi
-# formprojesi
+#formprojesi
